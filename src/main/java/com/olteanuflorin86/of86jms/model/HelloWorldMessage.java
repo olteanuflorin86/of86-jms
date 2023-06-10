@@ -1,6 +1,6 @@
 package com.olteanuflorin86.of86jms.model;
 
-import java.io.Serializable;
+import java.io.Serializable; 
 import java.util.UUID;
 
 import lombok.AllArgsConstructor;
